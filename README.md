@@ -1,2 +1,2 @@
-# Projects
-Completed Projects
+# Python Projects
+
